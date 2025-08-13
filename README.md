@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
@@ -48,10 +48,4 @@
   <a href="https://t.me/ll_SANKI_II"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://instagram.com/sumitkumaronline"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://t.me/TEAMSANKI"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=black" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" />
 </p>
