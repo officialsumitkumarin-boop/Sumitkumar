@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlaGZ1czU0bWRhZnkybXRvZmxvOGhiYnI1cHhpbTlpdjVrNmsyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Ay4ElBWg6mdO/giphy.gif" width="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
