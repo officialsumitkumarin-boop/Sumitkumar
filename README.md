@@ -16,7 +16,7 @@
 ### About Me 🚀
 - 🔭 I’m currently working on **Heartable** & **TS Chat** projects  
 - 🌱 I’m learning **React, TypeScript, Firebase & AI integration**  
-- 🎮 I love **Free Fire**, streaming & creating gaming content  
+- 🎮 I play **Free Fire**, games and more battel royal
 - 👯 I’m looking to collaborate on **Web & AI projects**  
 - 💬 Ask me about **Coding, Gaming, Anime & Tech**  
 - ⚡ Fun fact: I write Punjabi songs & manage YouTube channels  
