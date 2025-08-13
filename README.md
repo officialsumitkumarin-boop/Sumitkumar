@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
@@ -53,10 +53,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="400" />
