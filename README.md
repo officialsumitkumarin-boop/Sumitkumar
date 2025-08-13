@@ -26,15 +26,14 @@
 
 ### Skills 💻
 <p align="center">
-  <!-- Learning badges -->
-  <img src="https://img.shields.io/badge/Learning-Python-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-HTML5-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-CSS3-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-JavaScript-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-React-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Firebase-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-AI-ff69b4?style=for-the-badge" />
+  <!-- Learning badges with progress -->
+  <img src="https://img.shields.io/badge/Python-48%25%20Complete-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-28%25%20Complete-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-10%25%20Complete-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-68%25%20Complete-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-18%25%20Complete-ff69b4?style=for-the-badge" />
 </p>
+
 ---
 
 ### GitHub Stats 📊
