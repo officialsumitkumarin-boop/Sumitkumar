@@ -16,7 +16,7 @@
 ### About Me 🚀
 - 🔭 I’m currently working on **Heartable** & **TS Chat** projects  
 - 🌱 I’m learning **React, TypeScript, Firebase & AI integration**  
-- 🎮 I play **Free Fire**, games and more battel royal
+- 🎮 I play **Free Fire**, games and more battle royale  
 - 👯 I’m looking to collaborate on **Web & AI projects**  
 - 💬 Ask me about **Coding, Gaming, Anime & Tech**  
 - ⚡ Fun fact: I write Punjabi songs & manage YouTube channels  
@@ -37,10 +37,8 @@
 
 ### GitHub Stats 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=officialsumitkumarin-boop
-&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialsumitkumarin-boop
-&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=officialsumitkumarin-boop&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=officialsumitkumarin-boop&theme=radical" />
 </p>
 
 ---
@@ -55,5 +53,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="300" />
 </p>
